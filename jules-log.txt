@@ -1,0 +1,6 @@
+To import data into the table via phpMyadmin,
+FORMAT: select CSV using LOAD DATA
+Option: Columns separated with: |
+Columns enclosed with: leave empty
+Columns escaped with: leave empty
+Lines terminated with: \n
